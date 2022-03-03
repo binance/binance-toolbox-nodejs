@@ -1,0 +1,16 @@
+{
+  "name": "binance-toolbox-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "market": "node ./src/market.js",
+    "account": "node ./src/account.js",
+    "place-order": "node ./src/place-order.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@binance/connector": "^1.8.1"
+  }
+}
