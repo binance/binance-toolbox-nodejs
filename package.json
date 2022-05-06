@@ -11,6 +11,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@binance/connector": "^1.8.1"
+    "@binance/connector": "^1.9.2"
   }
 }
