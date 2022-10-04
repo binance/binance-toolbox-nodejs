@@ -5,12 +5,17 @@
   "scripts": {
     "market": "node ./src/market.js",
     "account": "node ./src/account.js",
-    "place-order": "node ./src/place-order.js"
+    "place-order": "node ./src/place-order.js",
+    "timeout": "node ./src/v2-features/timeout.js",
+    "ping": "node ./src/v2-features/ping.js",
+    "proxy": "node ./src/v2-features/proxy.js",
+    "httpsagent": "node ./src/v2-features/httpsAgent.js"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@binance/connector": "^1.9.2"
+    "@binance/connector": "^v2.0.0-rc.1",
+    "tunnel": "^0.0.6"
   }
 }
