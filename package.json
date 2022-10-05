@@ -15,7 +15,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@binance/connector": "^v2.0.0-rc.1",
+    "@binance/connector": "^v2.0.0-rc.2",
     "tunnel": "^0.0.6"
   }
 }
