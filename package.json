@@ -6,16 +6,14 @@
     "market": "node ./src/market.js",
     "account": "node ./src/account.js",
     "place-order": "node ./src/place-order.js",
-    "timeout": "node ./src/v2-features/timeout.js",
-    "ping": "node ./src/v2-features/ping.js",
-    "proxy": "node ./src/v2-features/proxy.js",
-    "httpsagent": "node ./src/v2-features/httpsAgent.js"
+    "cmfutures-market": "node ./src/futures/cm-market.js"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
     "@binance/connector": "^v3.0.0-rc.2",
+    "@binance/futures-connector": "^0.1.0",
     "tunnel": "^0.0.6"
   }
 }
