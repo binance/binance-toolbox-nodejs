@@ -12,7 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@binance/connector": "^v3.0.0-rc.2",
+    "@binance/connector": "^v3.1.0",
     "@binance/futures-connector": "^0.1.0",
     "tunnel": "^0.0.6"
   }
