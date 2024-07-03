@@ -12,8 +12,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@binance/connector": "^v3.1.0",
-    "@binance/futures-connector": "^0.1.0",
+    "@binance/connector": "^v3.4.0",
+    "@binance/futures-connector": "^0.1.3",
     "tunnel": "^0.0.6"
   }
 }
