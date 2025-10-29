@@ -1,4 +1,4 @@
-# Binance Toolbox Nodejs
+# Binance Toolbox Nodejs - DEPRECATED
 
 A few scripts that showing how to use the Binance connector `@binance/connector`.
 ## Preparation
